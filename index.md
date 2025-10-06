@@ -7,19 +7,19 @@ window.addEventListener("onEmbeddedMessagingReady", e => {
 						    // List the pre-chat field names with the value and whether
 						    // it's editable in the pre-chat form.
 		 						"_email": {
-						      	"value": "TEST12@gmail.com",
+						      	"value": "kwelkle11@gmail.com",
 						      	"isEditableByEndUser": false
 						    	},
 							 	"Account_Code": {
-						      	"value": "11111",
+						      	"value": "1376618",
 						      	"isEditableByEndUser": false
 								},
 								"_firstName": {
-						      	"value": "First",
+						      	"value": "KendallTEST",
 						      	"isEditableByEndUser": true
 						    	},
 		 						"_lastName": {
-						      	"value": "Last",
+						      	"value": "Welkley",
 						      	"isEditableByEndUser": true
 						    	},
 		 				  });
